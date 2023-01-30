@@ -1,0 +1,24 @@
+# Blender MTL File: 'models.blend'
+# Material Count: 2
+
+newmtl Compfire
+Ns -0.000015
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\\Games 2020\\Jams\\Quarentine\\Campfire.png
+
+newmtl Log_Mesh
+Ns -0.000015
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\\Games 2020\\Jams\\Quarentine\\Log.png
